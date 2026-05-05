@@ -5,28 +5,32 @@ Dataset: 100,000 guest reviews + Airbnb listings.
 
 Methods: VADER Lexicon Sentiment Analysis; Aspect-Based Sentiment Analysis (ABSA); LDA Topic Modelling.
 
+pandas · numpy · matplotlib · seaborn  · vaderSentiment · nltk · scikit-learn (CountVectorizer, LatentDirichletAllocation)
 
-Insight 1: Which neighbourhoods have highest/lowest guest satisfaction?
+__________
+💡 Insight 1: Which neighbourhoods have highest/lowest guest satisfaction?
 
 Method: VADER Sentiment Analysis.
 
 Finding: Yarra Ranges (highest) vs Monash (lowest).
 
 
-Insight 2: Which experience aspects drive dissatisfaction?
+
+💡 Insight 2: Which experience aspects drive dissatisfaction?
 
 Method: Aspect-Based Sentiment Analysis (ABSA).
 
 Finding: 5 aspects: Listing accuracy, Safety, Amenities & Facilities, Value for Money, and Cleanliness.
 
 
-Insight 3: What topics are most discussed by guests?
+
+💡 Insight 3: What topics are most discussed by guests?
 
 Method: LDA (Latent Dirichlet Allocation) Topic Modelling.
 
 Finding: 3 topics: Overall Experience, Host & Check-in, Location & Transit.
 
-
+__________
 Business Recommendations
 
 1. For hosts in general: Improve listing accuracy (current photos, accurate descriptions), upgrade high-use amenities, and strengthen door security.
