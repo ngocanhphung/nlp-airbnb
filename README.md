@@ -1,4 +1,4 @@
-# nlp-airbnb
+# nlp-airbnb-reviews
 Airbnb Victoria — NLP &amp; Sentiment Analysis of Guest Reviews
 
 Dataset: 100,000 guest reviews + Airbnb listings.
